@@ -3,9 +3,9 @@ import Link from 'next/link'
 export default function GiveAddress() {
     return (
         <div>
-            I live in Lahore, Pakistan
+            <h2>I live in Lahore, Pakistan</h2>
             <br/>
-          <Link href="/">Go to Home page</Link>
+          <Link href="/">Home</Link>
         </div>
     )
 }

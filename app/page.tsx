@@ -8,9 +8,9 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <div>
-          Hello World from Panaverse DAO!
+          <h1>Hello World from Najib Malik</h1>
           <br/>
-          <Link href="/name/address">Go to address page</Link>
+          <Link href="/name"> Get Name</Link>
     </div>
   )
 }
